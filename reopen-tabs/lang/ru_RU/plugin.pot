@@ -1,0 +1,36 @@
+# Russin translation of Reload Tabs gedit plugin.
+# Copyright (C) 2008 Eugene Khorev
+# Eugene Khorev <eugene.khorev@gmail.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Reopen Tabs gedit plugin 0.3.2\n"
+"POT-Creation-Date: 2008-01-15 12:18+MSK\n"
+"PO-Revision-Date: 2008-01-15 12:23+MSK\n"
+"Last-Translator: Eugene Khorev <eugene.khorev@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: config_dlg.py:31
+msgid "Reopen Tabs Plugin Configuration"
+msgstr "Настройки плагина Reopen Tabs"
+
+#: config_dlg.py:37
+msgid "Ask for saving on exit"
+msgstr "Спаршивать о сохранении при выходе"
+
+#: exit_dlg.py:31
+msgid "Reopen Tabs Plugin"
+msgstr "Модуль Reopen Tabs"
+
+#: exit_dlg.py:37
+msgid "Restore opened tabs on next run?"
+msgstr "Восстановить открытые документы при следующем запуске?"
+
+#: exit_dlg.py:40
+msgid "Don't ask again (always save)"
+msgstr "Больше не спрашивать (открывать всегда)"
+
